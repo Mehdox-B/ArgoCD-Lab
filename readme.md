@@ -1,1 +1,1 @@
-##ArgoCD Lab
+## ArgoCD Lab
